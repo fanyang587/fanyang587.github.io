@@ -1,25 +1,28 @@
-<html>
+<html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <title>Fan Yang's Home Page</title>
+    <title data-i18n="page.title">Fan Yang's Home Page</title>
     <base href="index.html">
   </head>
-  <body>
-    <h1 style="padding-left: 0.5em">Fan Yang's Home Page</h1>
+  <body data-page="index">
+    <h1 style="padding-left: 0.5em" data-i18n="site.title">Fan Yang's Home Page</h1>
     <hr>
+    <div style="text-align: right; padding: 0 1em 0.4em 0;">
+      <button id="lang-toggle" type="button">中文</button>
+    </div>
     <table summary="Table for page layout." id="tlayout">
       <tbody>
         <tr valign="top">
           <td id="layout-menu">
-            <div class="menu-item"><a href="index.html" class="current">Home</a></div>
-            <div class="menu-item"><a href="publication.html">Publications</a></div>
+            <div class="menu-item"><a href="index.html" class="current" data-i18n="menu.home">Home</a></div>
+            <div class="menu-item"><a href="publication.html" data-i18n="menu.publications">Publications</a></div>
           </td>
           <td id="layout-content">
-            <h1 style="margin-top: 0em">Home</h1>
+            <h1 style="margin-top: 0em" data-i18n="section.home">Home</h1>
             <br>
-            <p>[ <a href="#bio">Short Biography</a>, <a href="#interest">Research
-                Interests</a>, <a href="#job">Research Experience</a>, <a href="#edu">Education</a>
+            <p>[<a href="#bio" data-i18n="quick.bio">Short Biography</a>, <a href="#interest" data-i18n="quick.interest">Research
+                Interests</a>, <a href="#job" data-i18n="quick.job">Research Experience</a>, <a href="#edu" data-i18n="quick.edu">Education</a>
               ]</p>
             <table class="imgtable">
               <tbody>
@@ -27,7 +30,7 @@
                   <td><a href="fan.jpg"><img src="fan.jpg" alt="fan yang" style="width:8em; height:auto"></a></td>
                   <td align="left">
                     <p><span style="font-size: 110%"><b>Fan Yang, Ph.D.</b></span></p>
-                    <p> Senior Scientist<br>
+                    <p> <span data-i18n="profile.role">Senior Scientist</span><br>
                       <a href="https://aiqintelligence.ae/" target="_blank">AIQ</a>
                     </p>
                     <p> E-mail: <b>fanyang_uestc@hotmail.com</b><br>
@@ -51,8 +54,23 @@
     <a href="http://wsl-workshop.github.io/" target="_blank">(CFP)</a><br>    as well as a <b>special issue of Machine Learning journal</b> on the same topic    <a href="http://www.springer.com/journal/10994/updates/19149940" target="_blank">(CFP)</a>. Welcome to submit!</font></p> -->
             <div>
               <h2>
-                <hr><a name="bio"></a>Short Biography</h2>
-              <p style="text-align:justify; text-justify:inter-ideograph;"> Fan
+                <hr><a name="news"></a><span data-i18n="section.news">News</span></h2>
+              <ul>
+                <li>
+                  <p data-i18n="news.item1">💥 3 papers have been accepted by CVPR2026 (2 posters, 1 oral).</p>
+                </li>
+                <li>
+                  <p data-i18n="news.item2">💥 1 paper has been accepted by AAAI2026.</p>
+                </li>
+                <li>
+                  <p data-i18n="news.item3">💥 Elected as Senior PC of ICMR2026.</p>
+                </li>
+              </ul>
+            </div>
+            <div>
+              <h2>
+                <hr><a name="bio"></a><span data-i18n="section.bio">Short Biography</span></h2>
+              <p style="text-align:justify; text-justify:inter-ideograph;" data-i18n-html="bio.text"> Fan
                 Yang received the B.S. degree in software engineering from
                 Southwest Petroleum University in 2010, and the Doctor’s degree
                 in information and communication engineering from University of
@@ -69,73 +87,73 @@
             </div>
             <div>
               <h2>
-                <hr><a name="interest"></a>Research Interests</h2>
+                <hr><a name="interest"></a><span data-i18n="section.interests">Research Interests</span></h2>
               <ul>
                 <li>
-                  <p>Computer Vision</p>
+                  <p data-i18n="interest.cv">Computer Vision</p>
                 </li>
                 <li>
-                  <p>3D Vision</p>
+                  <p data-i18n="interest.3d">3D Vision</p>
                 </li>
                 <li>
                   <p>LLM/VLLM</p>
                 </li>
                 <li>
-                  <p>Generative Model</p>
+                  <p data-i18n="interest.gen">Generative Model</p>
                 </li>
                 <li>
-                  <p>Medical Image Analysis</p>
+                  <p data-i18n="interest.med">Medical Image Analysis</p>
                 </li>
                 <li>
-                  <p>Machine learning</p>
+                  <p data-i18n="interest.ml">Machine learning</p>
                 </li>
               </ul>
             </div>
             <div>
               <h2>
-                <hr><a name="job"></a>Research Experience</h2>
+                <hr><a name="job"></a><span data-i18n="section.experience">Research Experience</span></h2>
               <ul>
                 <li>
-                  <p> <b>Senior Scientist</b> (March 2020--Now)<br>
+                  <p> <b data-i18n="exp.ss">Senior Scientist</b> (March 2020--Now)<br>
                     AIQ, Abu Dhabi, UAE.<br>
                   </p>
                 </li>
                 <li>
-                  <p> <b>Research Associate</b> (March 2019--March 2020)<br>
+                  <p> <b data-i18n="exp.ra">Research Associate</b> (March 2019--March 2020)<br>
                     Inception Institute of Artificial Intelligence, Abu Dhabi,
                     UAE. </p>
                 </li>
                 <li>
-                  <p> <b>Post Doctoral</b> (August 2018--March 2019)<br>
+                  <p> <b data-i18n="exp.pd">Post Doctoral</b> (August 2018--March 2019)<br>
                     IDEA Research Lab in the Department of Radiology, University
                     of North Carolina at Chapel Hill, NC, USA. </p>
                 </li>
                 <li>
-                  <p> <b>Research Intern</b> (September 2016--April 2017)<br>
+                  <p> <b data-i18n="exp.ri">Research Intern</b> (September 2016--April 2017)<br>
                     Microsoft Research Asia, Beijing, China. </p>
                 </li>
               </ul>
             </div>
             <div>
               <h2>
-                <hr><a name="edu"></a>Education</h2>
+                <hr><a name="edu"></a><span data-i18n="section.edu">Education</span></h2>
               <ul>
                 <li>
-                  <p> <b>PhD. student</b> (September 2012--June 2018)<br>
+                  <p> <b data-i18n="edu.phd">PhD. student</b> (September 2012--June 2018)<br>
                     School of Computer Science and Engineering,<br>
                     University of Electronic Science and Technology of China,
                     Chengdu, China.<br>
                     Advisor: Professor Hong Cheng &amp; Professor Jianping Li. </p>
                 </li>
                 <li>
-                  <p> <b>M.S. student</b> (September 2010--June 2012)<br>
+                  <p> <b data-i18n="edu.ms">M.S. student</b> (September 2010--June 2012)<br>
                     School of Computer Science and Engineering,<br>
                     University of Electronic Science and Technology of China,
                     Chengdu, China.<br>
                     Advisor: Professor Jianping Li. </p>
                 </li>
                 <li>
-                  <p> <b>B.S. student</b> (September 2006--June 2010)<br>
+                  <p> <b data-i18n="edu.bs">B.S. student</b> (September 2006--June 2010)<br>
                     School of Computer Science,<br>
                     Southwest Petroleum University, Xindu, China.<br>
                     Major: Software Engineering. </p>
@@ -144,7 +162,7 @@
             </div>
             <div>
               <h2>
-                <hr><a name="edu"></a>Selected Publication</h2>
+                <hr><a name="edu"></a><span data-i18n="section.selected">Selected Publication</span></h2>
               <table class="imgtable">
                 <tbody>
                   <tr valign="top">
@@ -435,5 +453,6 @@
         </tr>
       </tbody>
     </table>
+    <script src="i18n.js"></script>
   </body>
 </html>
