@@ -83,7 +83,15 @@
         "menu.home": "Home",
         "menu.publications": "Publications",
         "section.publications": "Publications",
-        "note.equal": "An asterisk (*) beside authors' names indicates equal contribution."
+        "note.equal": "An asterisk (*) beside authors' names indicates equal contribution or corresponding author.",
+        "year.2026": "2026",
+        "year.2025": "2025",
+        "year.2024": "2024",
+        "year.2023": "2023",
+        "year.2022": "2022",
+        "year.2021": "2021",
+        "year.2020": "2020",
+        "year.before2020": "Before"
       },
       zh: {
         "page.title": "杨帆(AIQ 高级科学家)",
@@ -91,7 +99,14 @@
         "menu.home": "首页",
         "menu.publications": "论文",
         "section.publications": "论文",
-        "note.equal": "作者姓名旁的星号（*）表示共同一作。"
+        "note.equal": "作者姓名旁的星号（*）表示共同一作或通讯作者。",
+        "year.2025": "2025 年",
+        "year.2024": "2024 年",
+        "year.2023": "2023 年",
+        "year.2022": "2022 年",
+        "year.2021": "2021 年",
+        "year.2020": "2020 年",
+        "year.before2020": "2020 年之前"
       }
     }
   };
