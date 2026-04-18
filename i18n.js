@@ -15,6 +15,7 @@
         "quick.interest": "Research Interests",
         "quick.job": "Research Experience",
         "quick.edu": "Education",
+        "profile.name": "Fan Yang, Ph.D.",
         "profile.role": "Senior Scientist",
         "section.news": "News",
         "news.item1": "💥 3 papers have been accepted by CVPR2026 (2 posters, 1 oral).",
@@ -22,7 +23,7 @@
         "news.item3": "💥 Elected as Senior PC of ICMR2026.",
         "section.bio": "Short Biography",
         "bio.text":
-          "Fan Yang received the B.S. degree in software engineering from Southwest Petroleum University in 2010, and the Doctor's degree in information and communication engineering from University of Electronic Science and Technology of China (UESTC), in 2018. He was a research intern with Microsoft Research Asia (MSRA). He was a research scholar in the department of computer science, University of North Carolina and also in the department of Radiology and BRIC, University of North Carolina. He was Research Associate in IIAI. Now, he is a senior scientist with <a href=\"https://aiqintelligence.ae/\" target=\"_blank\">AIQ</a>, UAE. His research interests include computer vision, deep learning and medical image processing.",
+          "Fan Yang received the B.S. degree in software engineering from Southwest Petroleum University in 2010, and the Doctor's degree in information and communication engineering from University of Electronic Science and Technology of China (UESTC), in 2018. He was a research intern with Microsoft Research Asia (MSRA). He was a research scholar in the department of computer science, University of North Carolina and also in the department of Radiology and BRIC, University of North Carolina. He was Research Associate in IIAI. Now, he is a senior scientist with <a href=\"https://aiqintelligence.ae/\" target=\"_blank\">AIQ</a>, UAE. His research interests include computer vision, deep learning, medical image processing, biological AI, etc.",
         "section.interests": "Research Interests",
         "interest.cv": "Computer Vision",
         "interest.3d": "3D Vision",
@@ -50,6 +51,7 @@
         "quick.interest": "研究兴趣",
         "quick.job": "研究经历",
         "quick.edu": "教育背景",
+        "profile.name": "杨帆，博士",
         "profile.role": "高级科学家",
         "section.news": "新闻",
         "news.item1": "💥 3 篇论文被 CVPR2026 接收（2 篇 poster，1 篇 oral）。",
@@ -57,7 +59,7 @@
         "news.item3": "💥 当选 ICMR2026 Senior PC。",
         "section.bio": "个人简介",
         "bio.text":
-          "杨帆于 2010 年获得西南石油大学软件工程学士学位，于 2018 年获得电子科技大学信息与通信工程博士学位。曾在微软亚洲研究院（MSRA）担任研究实习生，曾在北卡罗来纳大学计算机系及放射科与 BRIC 从事访问研究工作，曾任阿布扎比人工智能研究院（IIAI）研究助理。现任阿联酋 <a href=\"https://aiqintelligence.ae/\" target=\"_blank\">AIQ</a> 高级科学家。研究方向包括计算机视觉、深度学习与医学图像处理。",
+          "杨帆于 2010 年获得西南石油大学软件工程学士学位，于 2018 年获得电子科技大学信息与通信工程博士学位。曾在微软亚洲研究院（MSRA）担任研究实习生，曾在北卡罗来纳大学计算机系及BRIC实验室从事访问研究工作，曾任阿布扎比人工智能研究院（IIAI）研究助理。现任阿联酋 <a href=\"https://aiqintelligence.ae/\" target=\"_blank\">AIQ</a> 高级科学家。研究方向包括计算机视觉、深度学习，医学图像处理以及生物AI领域等。",
         "section.interests": "研究兴趣",
         "interest.cv": "计算机视觉",
         "interest.3d": "三维视觉",
