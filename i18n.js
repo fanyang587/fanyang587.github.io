@@ -20,6 +20,7 @@
         "section.news": "News",
         "news.item1": "💥 3 papers have been accepted by CVPR2026 (2 posters, 1 oral).",
         "news.item2": "💥 1 paper has been accepted by AAAI2026.",
+        "news.item4": "💥 1 paper has been accepted by KDD2026.",
         "news.item3": "💥 Elected as Senior PC of ICMR2026.",
         "section.bio": "Short Biography",
         "bio.text":
@@ -56,6 +57,7 @@
         "section.news": "新闻",
         "news.item1": "💥 3 篇论文被 CVPR2026 接收（2 篇 poster，1 篇 oral）。",
         "news.item2": "💥 1 篇论文被 AAAI2026 接收。",
+        "news.item4": "💥 1 篇论文被 KDD2026 接收。",
         "news.item3": "💥 当选 ICMR2026 Senior PC。",
         "section.bio": "个人简介",
         "bio.text":
