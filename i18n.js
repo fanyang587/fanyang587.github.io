@@ -24,7 +24,7 @@
         "news.item3": "💥 Elected as Senior PC of ICMR2026.",
         "section.bio": "Short Biography",
         "bio.text":
-          "Fan Yang received the B.S. degree in software engineering from Southwest Petroleum University in 2010, and the Doctor's degree in information and communication engineering from University of Electronic Science and Technology of China (UESTC), in 2018. He was a research intern with Microsoft Research Asia (MSRA). He was a research scholar in the department of computer science, University of North Carolina and also in the department of Radiology and BRIC, University of North Carolina. He was Research Associate in IIAI. Now, he is a senior scientist with <a href=\"https://aiqintelligence.ae/\" target=\"_blank\">AIQ</a>, UAE. His research interests include computer vision, deep learning, medical image processing, biological AI, etc.",
+          "Fan Yang received the B.S. degree from Southwest Petroleum University in 2010, and the Doctor's degree from University of Electronic Science and Technology of China (UESTC), in 2018. He was a research intern with Microsoft Research Asia (MSRA). He was a research scholar in the department of computer science, University of North Carolina and also in the department of Radiology and BRIC, University of North Carolina. He was Research Associate in IIAI. Now, he is a senior scientist with <a href=\"https://aiqintelligence.ae/\" target=\"_blank\">AIQ</a>, UAE. His research interests include computer vision, deep learning, medical image processing, biological AI, etc.",
         "section.interests": "Research Interests",
         "interest.cv": "Computer Vision",
         "interest.3d": "3D Vision",
@@ -61,7 +61,7 @@
         "news.item3": "💥 当选 ICMR2026 Senior PC。",
         "section.bio": "个人简介",
         "bio.text":
-          "杨帆于 2010 年获得西南石油大学软件工程学士学位，于 2018 年获得电子科技大学信息与通信工程博士学位。曾在微软亚洲研究院（MSRA）担任研究实习生，曾在北卡罗来纳大学计算机系及BRIC实验室从事访问研究工作，曾任阿布扎比人工智能研究院（IIAI）研究助理。现任阿联酋 <a href=\"https://aiqintelligence.ae/\" target=\"_blank\">AIQ</a> 高级科学家。研究方向包括计算机视觉、深度学习，医学图像处理以及生物AI领域等。",
+          "杨帆于 2010 年获得西南石油大学学士学位，于 2018 年获得电子科技大学博士学位。曾在微软亚洲研究院（MSRA）担任研究实习生，曾在北卡罗来纳大学计算机系及BRIC实验室从事访问研究工作，曾任阿布扎比人工智能研究院（IIAI）研究助理。现任阿联酋 <a href=\"https://aiqintelligence.ae/\" target=\"_blank\">AIQ</a> 高级科学家。研究方向包括计算机视觉、深度学习，医学图像处理以及生物AI领域等。",
         "section.interests": "研究兴趣",
         "interest.cv": "计算机视觉",
         "interest.3d": "三维视觉",
